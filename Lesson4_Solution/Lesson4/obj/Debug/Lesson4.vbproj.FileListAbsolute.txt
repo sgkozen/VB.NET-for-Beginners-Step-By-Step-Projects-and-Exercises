@@ -1,0 +1,12 @@
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson4_Solution\Lesson4\bin\Debug\Lesson4.exe.config
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson4_Solution\Lesson4\bin\Debug\Lesson4.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson4_Solution\Lesson4\bin\Debug\Lesson4.pdb
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson4_Solution\Lesson4\bin\Debug\Lesson4.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson4_Solution\Lesson4\obj\Debug\Lesson4.vbproj.AssemblyReference.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson4_Solution\Lesson4\obj\Debug\Lesson4.Form1.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson4_Solution\Lesson4\obj\Debug\Lesson4.Resources.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson4_Solution\Lesson4\obj\Debug\Lesson4.vbproj.GenerateResource.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson4_Solution\Lesson4\obj\Debug\Lesson4.vbproj.CoreCompileInputs.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson4_Solution\Lesson4\obj\Debug\Lesson4.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson4_Solution\Lesson4\obj\Debug\Lesson4.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson4_Solution\Lesson4\obj\Debug\Lesson4.pdb

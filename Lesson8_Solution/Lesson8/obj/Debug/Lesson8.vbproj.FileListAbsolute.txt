@@ -1,0 +1,12 @@
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson8_Solution\Lesson8\obj\Debug\Lesson8.vbproj.AssemblyReference.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson8_Solution\Lesson8\obj\Debug\Lesson8.RentalCost.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson8_Solution\Lesson8\obj\Debug\Lesson8.Resources.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson8_Solution\Lesson8\obj\Debug\Lesson8.vbproj.GenerateResource.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson8_Solution\Lesson8\obj\Debug\Lesson8.vbproj.CoreCompileInputs.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson8_Solution\Lesson8\bin\Debug\Lesson8.exe.config
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson8_Solution\Lesson8\bin\Debug\Lesson8.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson8_Solution\Lesson8\bin\Debug\Lesson8.pdb
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson8_Solution\Lesson8\bin\Debug\Lesson8.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson8_Solution\Lesson8\obj\Debug\Lesson8.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson8_Solution\Lesson8\obj\Debug\Lesson8.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson8_Solution\Lesson8\obj\Debug\Lesson8.pdb

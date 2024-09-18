@@ -1,0 +1,12 @@
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson9_Solution\Lesson9\bin\Debug\Lesson9.exe.config
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson9_Solution\Lesson9\bin\Debug\Lesson9.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson9_Solution\Lesson9\bin\Debug\Lesson9.pdb
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson9_Solution\Lesson9\bin\Debug\Lesson9.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson9_Solution\Lesson9\obj\Debug\Lesson9.vbproj.AssemblyReference.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson9_Solution\Lesson9\obj\Debug\Lesson9.Resources.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson9_Solution\Lesson9\obj\Debug\Lesson9.vbproj.GenerateResource.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson9_Solution\Lesson9\obj\Debug\Lesson9.vbproj.CoreCompileInputs.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson9_Solution\Lesson9\obj\Debug\Lesson9.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson9_Solution\Lesson9\obj\Debug\Lesson9.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson9_Solution\Lesson9\obj\Debug\Lesson9.pdb
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson9_Solution\Lesson9\obj\Debug\Lesson9.Nutrition.resources

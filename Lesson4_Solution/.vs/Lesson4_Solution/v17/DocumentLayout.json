@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VB.NET for Beginners Step By Step Projects and Exercises\\Lesson4_Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{162EDC8C-3B2F-474C-99BB-8450C54BFFDD}|Lesson4\\Lesson4.vbproj|c:\\vb.net for beginners step by step projects and exercises\\lesson4_solution\\lesson4\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{162EDC8C-3B2F-474C-99BB-8450C54BFFDD}|Lesson4\\Lesson4.vbproj|solutionrelative:lesson4\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162EDC8C-3B2F-474C-99BB-8450C54BFFDD}|Lesson4\\Lesson4.vbproj|c:\\vb.net for beginners step by step projects and exercises\\lesson4_solution\\lesson4\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{162EDC8C-3B2F-474C-99BB-8450C54BFFDD}|Lesson4\\Lesson4.vbproj|solutionrelative:lesson4\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\VB.NET for Beginners Step By Step Projects and Exercises\\Lesson4_Solution\\Lesson4\\Form1.vb",
+              "RelativeDocumentMoniker": "Lesson4\\Form1.vb",
+              "ToolTip": "C:\\VB.NET for Beginners Step By Step Projects and Exercises\\Lesson4_Solution\\Lesson4\\Form1.vb",
+              "RelativeToolTip": "Lesson4\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-17T07:16:09.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\VB.NET for Beginners Step By Step Projects and Exercises\\Lesson4_Solution\\Lesson4\\Form1.vb",
+              "RelativeDocumentMoniker": "Lesson4\\Form1.vb",
+              "ToolTip": "C:\\VB.NET for Beginners Step By Step Projects and Exercises\\Lesson4_Solution\\Lesson4\\Form1.vb [Design]",
+              "RelativeToolTip": "Lesson4\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-17T07:11:24.259Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
