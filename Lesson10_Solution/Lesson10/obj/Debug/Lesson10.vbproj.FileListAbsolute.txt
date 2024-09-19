@@ -1,0 +1,12 @@
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson10_Solution\Lesson10\bin\Debug\Lesson10.exe.config
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson10_Solution\Lesson10\bin\Debug\Lesson10.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson10_Solution\Lesson10\bin\Debug\Lesson10.pdb
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson10_Solution\Lesson10\bin\Debug\Lesson10.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson10_Solution\Lesson10\obj\Debug\Lesson10.vbproj.AssemblyReference.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson10_Solution\Lesson10\obj\Debug\Lesson10.CarLoan.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson10_Solution\Lesson10\obj\Debug\Lesson10.Resources.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson10_Solution\Lesson10\obj\Debug\Lesson10.vbproj.GenerateResource.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson10_Solution\Lesson10\obj\Debug\Lesson10.vbproj.CoreCompileInputs.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson10_Solution\Lesson10\obj\Debug\Lesson10.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson10_Solution\Lesson10\obj\Debug\Lesson10.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson10_Solution\Lesson10\obj\Debug\Lesson10.pdb

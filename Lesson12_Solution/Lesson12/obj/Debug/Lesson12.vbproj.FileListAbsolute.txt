@@ -1,0 +1,12 @@
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson12_Solution\Lesson12\bin\Debug\Lesson12.exe.config
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson12_Solution\Lesson12\bin\Debug\Lesson12.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson12_Solution\Lesson12\bin\Debug\Lesson12.pdb
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson12_Solution\Lesson12\bin\Debug\Lesson12.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson12_Solution\Lesson12\obj\Debug\Lesson12.vbproj.AssemblyReference.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson12_Solution\Lesson12\obj\Debug\Lesson12.Resources.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson12_Solution\Lesson12\obj\Debug\Lesson12.RestaurantMenu.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson12_Solution\Lesson12\obj\Debug\Lesson12.vbproj.GenerateResource.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson12_Solution\Lesson12\obj\Debug\Lesson12.vbproj.CoreCompileInputs.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson12_Solution\Lesson12\obj\Debug\Lesson12.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson12_Solution\Lesson12\obj\Debug\Lesson12.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson12_Solution\Lesson12\obj\Debug\Lesson12.pdb

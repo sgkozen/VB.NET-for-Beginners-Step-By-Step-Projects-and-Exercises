@@ -1,0 +1,12 @@
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson13_Solution\Lesson13\obj\Debug\Lesson13.vbproj.AssemblyReference.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson13_Solution\Lesson13\obj\Debug\Lesson13.CollegeAdmissions.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson13_Solution\Lesson13\obj\Debug\Lesson13.Resources.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson13_Solution\Lesson13\obj\Debug\Lesson13.vbproj.GenerateResource.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson13_Solution\Lesson13\obj\Debug\Lesson13.vbproj.CoreCompileInputs.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson13_Solution\Lesson13\bin\Debug\Lesson13.exe.config
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson13_Solution\Lesson13\bin\Debug\Lesson13.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson13_Solution\Lesson13\bin\Debug\Lesson13.pdb
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson13_Solution\Lesson13\bin\Debug\Lesson13.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson13_Solution\Lesson13\obj\Debug\Lesson13.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson13_Solution\Lesson13\obj\Debug\Lesson13.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson13_Solution\Lesson13\obj\Debug\Lesson13.pdb
