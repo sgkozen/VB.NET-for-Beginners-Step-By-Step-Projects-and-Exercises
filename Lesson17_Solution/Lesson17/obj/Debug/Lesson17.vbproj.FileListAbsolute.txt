@@ -1,0 +1,12 @@
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson17_Solution\Lesson17\bin\Debug\Lesson17.exe.config
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson17_Solution\Lesson17\bin\Debug\Lesson17.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson17_Solution\Lesson17\bin\Debug\Lesson17.pdb
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson17_Solution\Lesson17\bin\Debug\Lesson17.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson17_Solution\Lesson17\obj\Debug\Lesson17.vbproj.AssemblyReference.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson17_Solution\Lesson17\obj\Debug\Lesson17.AstroQuiz.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson17_Solution\Lesson17\obj\Debug\Lesson17.Resources.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson17_Solution\Lesson17\obj\Debug\Lesson17.vbproj.GenerateResource.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson17_Solution\Lesson17\obj\Debug\Lesson17.vbproj.CoreCompileInputs.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson17_Solution\Lesson17\obj\Debug\Lesson17.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson17_Solution\Lesson17\obj\Debug\Lesson17.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson17_Solution\Lesson17\obj\Debug\Lesson17.pdb

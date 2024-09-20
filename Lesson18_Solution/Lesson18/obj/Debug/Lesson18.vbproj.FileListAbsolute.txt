@@ -1,0 +1,12 @@
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson18_Solution\Lesson18\bin\Debug\Lesson18.exe.config
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson18_Solution\Lesson18\bin\Debug\Lesson18.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson18_Solution\Lesson18\bin\Debug\Lesson18.pdb
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson18_Solution\Lesson18\bin\Debug\Lesson18.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson18_Solution\Lesson18\obj\Debug\Lesson18.vbproj.AssemblyReference.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson18_Solution\Lesson18\obj\Debug\Lesson18.Resources.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson18_Solution\Lesson18\obj\Debug\Lesson18.StickGame.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson18_Solution\Lesson18\obj\Debug\Lesson18.vbproj.GenerateResource.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson18_Solution\Lesson18\obj\Debug\Lesson18.vbproj.CoreCompileInputs.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson18_Solution\Lesson18\obj\Debug\Lesson18.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson18_Solution\Lesson18\obj\Debug\Lesson18.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson18_Solution\Lesson18\obj\Debug\Lesson18.pdb

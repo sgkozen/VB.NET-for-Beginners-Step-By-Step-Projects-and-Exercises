@@ -1,0 +1,12 @@
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson19_Solution\Lesson19\obj\Debug\Lesson19.vbproj.AssemblyReference.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson19_Solution\Lesson19\obj\Debug\Lesson19.LoanCalculator.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson19_Solution\Lesson19\obj\Debug\Lesson19.Resources.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson19_Solution\Lesson19\obj\Debug\Lesson19.vbproj.GenerateResource.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson19_Solution\Lesson19\obj\Debug\Lesson19.vbproj.CoreCompileInputs.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson19_Solution\Lesson19\bin\Debug\Lesson19.exe.config
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson19_Solution\Lesson19\bin\Debug\Lesson19.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson19_Solution\Lesson19\bin\Debug\Lesson19.pdb
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson19_Solution\Lesson19\bin\Debug\Lesson19.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson19_Solution\Lesson19\obj\Debug\Lesson19.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson19_Solution\Lesson19\obj\Debug\Lesson19.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson19_Solution\Lesson19\obj\Debug\Lesson19.pdb

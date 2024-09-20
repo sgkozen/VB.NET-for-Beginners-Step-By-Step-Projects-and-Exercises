@@ -1,0 +1,12 @@
+C:\VB.NET for Beginners Step By Step Projects and Exercises\FurnitureOrderSolution\FurnitureOrder\bin\Debug\FurnitureOrder.exe.config
+C:\VB.NET for Beginners Step By Step Projects and Exercises\FurnitureOrderSolution\FurnitureOrder\bin\Debug\FurnitureOrder.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\FurnitureOrderSolution\FurnitureOrder\bin\Debug\FurnitureOrder.pdb
+C:\VB.NET for Beginners Step By Step Projects and Exercises\FurnitureOrderSolution\FurnitureOrder\bin\Debug\FurnitureOrder.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\FurnitureOrderSolution\FurnitureOrder\obj\Debug\FurnitureOrder.vbproj.AssemblyReference.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\FurnitureOrderSolution\FurnitureOrder\obj\Debug\FurnitureOrder.FurnitureOrder.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\FurnitureOrderSolution\FurnitureOrder\obj\Debug\FurnitureOrder.Resources.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\FurnitureOrderSolution\FurnitureOrder\obj\Debug\FurnitureOrder.vbproj.GenerateResource.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\FurnitureOrderSolution\FurnitureOrder\obj\Debug\FurnitureOrder.vbproj.CoreCompileInputs.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\FurnitureOrderSolution\FurnitureOrder\obj\Debug\FurnitureOrder.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\FurnitureOrderSolution\FurnitureOrder\obj\Debug\FurnitureOrder.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\FurnitureOrderSolution\FurnitureOrder\obj\Debug\FurnitureOrder.pdb

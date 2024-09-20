@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VB.NET for Beginners Step By Step Projects and Exercises\\Lesson17_Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{235E4242-6568-4EEC-9654-06A4A41E292F}|Lesson17\\Lesson17.vbproj|c:\\vb.net for beginners step by step projects and exercises\\lesson17_solution\\lesson17\\astroquiz.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{235E4242-6568-4EEC-9654-06A4A41E292F}|Lesson17\\Lesson17.vbproj|solutionrelative:lesson17\\astroquiz.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{235E4242-6568-4EEC-9654-06A4A41E292F}|Lesson17\\Lesson17.vbproj|c:\\vb.net for beginners step by step projects and exercises\\lesson17_solution\\lesson17\\astroquiz.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{235E4242-6568-4EEC-9654-06A4A41E292F}|Lesson17\\Lesson17.vbproj|solutionrelative:lesson17\\astroquiz.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AstroQuiz.vb",
+              "DocumentMoniker": "C:\\VB.NET for Beginners Step By Step Projects and Exercises\\Lesson17_Solution\\Lesson17\\AstroQuiz.vb",
+              "RelativeDocumentMoniker": "Lesson17\\AstroQuiz.vb",
+              "ToolTip": "C:\\VB.NET for Beginners Step By Step Projects and Exercises\\Lesson17_Solution\\Lesson17\\AstroQuiz.vb",
+              "RelativeToolTip": "Lesson17\\AstroQuiz.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-20T04:08:18.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AstroQuiz.vb [Design]",
+              "DocumentMoniker": "C:\\VB.NET for Beginners Step By Step Projects and Exercises\\Lesson17_Solution\\Lesson17\\AstroQuiz.vb",
+              "RelativeDocumentMoniker": "Lesson17\\AstroQuiz.vb",
+              "ToolTip": "C:\\VB.NET for Beginners Step By Step Projects and Exercises\\Lesson17_Solution\\Lesson17\\AstroQuiz.vb [Design]",
+              "RelativeToolTip": "Lesson17\\AstroQuiz.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-20T04:03:15.677Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
