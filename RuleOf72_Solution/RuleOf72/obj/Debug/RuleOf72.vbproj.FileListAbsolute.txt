@@ -1,0 +1,12 @@
+C:\VB.NET for Beginners Step By Step Projects and Exercises\RuleOf72_Solution\RuleOf72\bin\Debug\RuleOf72.exe.config
+C:\VB.NET for Beginners Step By Step Projects and Exercises\RuleOf72_Solution\RuleOf72\bin\Debug\RuleOf72.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\RuleOf72_Solution\RuleOf72\bin\Debug\RuleOf72.pdb
+C:\VB.NET for Beginners Step By Step Projects and Exercises\RuleOf72_Solution\RuleOf72\bin\Debug\RuleOf72.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\RuleOf72_Solution\RuleOf72\obj\Debug\RuleOf72.vbproj.AssemblyReference.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\RuleOf72_Solution\RuleOf72\obj\Debug\RuleOf72.Resources.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\RuleOf72_Solution\RuleOf72\obj\Debug\RuleOf72.RuleOf72.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\RuleOf72_Solution\RuleOf72\obj\Debug\RuleOf72.vbproj.GenerateResource.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\RuleOf72_Solution\RuleOf72\obj\Debug\RuleOf72.vbproj.CoreCompileInputs.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\RuleOf72_Solution\RuleOf72\obj\Debug\RuleOf72.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\RuleOf72_Solution\RuleOf72\obj\Debug\RuleOf72.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\RuleOf72_Solution\RuleOf72\obj\Debug\RuleOf72.pdb

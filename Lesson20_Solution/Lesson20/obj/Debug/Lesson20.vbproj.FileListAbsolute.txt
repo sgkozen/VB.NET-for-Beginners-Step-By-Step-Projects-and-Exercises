@@ -1,0 +1,12 @@
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson20_Solution\Lesson20\bin\Debug\Lesson20.exe.config
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson20_Solution\Lesson20\bin\Debug\Lesson20.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson20_Solution\Lesson20\bin\Debug\Lesson20.pdb
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson20_Solution\Lesson20\bin\Debug\Lesson20.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson20_Solution\Lesson20\obj\Debug\Lesson20.vbproj.AssemblyReference.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson20_Solution\Lesson20\obj\Debug\Lesson20.CaffeineAbsorption.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson20_Solution\Lesson20\obj\Debug\Lesson20.Resources.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson20_Solution\Lesson20\obj\Debug\Lesson20.vbproj.GenerateResource.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson20_Solution\Lesson20\obj\Debug\Lesson20.vbproj.CoreCompileInputs.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson20_Solution\Lesson20\obj\Debug\Lesson20.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson20_Solution\Lesson20\obj\Debug\Lesson20.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson20_Solution\Lesson20\obj\Debug\Lesson20.pdb
