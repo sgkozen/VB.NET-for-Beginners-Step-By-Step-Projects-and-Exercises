@@ -1,0 +1,12 @@
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson24_Solution\Lesson24\bin\Debug\Lesson24.exe.config
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson24_Solution\Lesson24\bin\Debug\Lesson24.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson24_Solution\Lesson24\bin\Debug\Lesson24.pdb
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson24_Solution\Lesson24\bin\Debug\Lesson24.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson24_Solution\Lesson24\obj\Debug\Lesson24.vbproj.AssemblyReference.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson24_Solution\Lesson24\obj\Debug\Lesson24.AlphabeticalOrder.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson24_Solution\Lesson24\obj\Debug\Lesson24.Resources.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson24_Solution\Lesson24\obj\Debug\Lesson24.vbproj.GenerateResource.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson24_Solution\Lesson24\obj\Debug\Lesson24.vbproj.CoreCompileInputs.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson24_Solution\Lesson24\obj\Debug\Lesson24.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson24_Solution\Lesson24\obj\Debug\Lesson24.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson24_Solution\Lesson24\obj\Debug\Lesson24.pdb

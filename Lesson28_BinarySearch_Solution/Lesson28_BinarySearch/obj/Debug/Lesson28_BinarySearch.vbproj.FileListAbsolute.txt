@@ -1,0 +1,12 @@
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson28_BinarySearch_Solution\Lesson28_BinarySearch\bin\Debug\Lesson28_BinarySearch.exe.config
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson28_BinarySearch_Solution\Lesson28_BinarySearch\bin\Debug\Lesson28_BinarySearch.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson28_BinarySearch_Solution\Lesson28_BinarySearch\bin\Debug\Lesson28_BinarySearch.pdb
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson28_BinarySearch_Solution\Lesson28_BinarySearch\bin\Debug\Lesson28_BinarySearch.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson28_BinarySearch_Solution\Lesson28_BinarySearch\obj\Debug\Lesson28_BinarySearch.vbproj.AssemblyReference.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson28_BinarySearch_Solution\Lesson28_BinarySearch\obj\Debug\Lesson28_BinarySearch.BinarySearch.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson28_BinarySearch_Solution\Lesson28_BinarySearch\obj\Debug\Lesson28_BinarySearch.Resources.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson28_BinarySearch_Solution\Lesson28_BinarySearch\obj\Debug\Lesson28_BinarySearch.vbproj.GenerateResource.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson28_BinarySearch_Solution\Lesson28_BinarySearch\obj\Debug\Lesson28_BinarySearch.vbproj.CoreCompileInputs.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson28_BinarySearch_Solution\Lesson28_BinarySearch\obj\Debug\Lesson28_BinarySearch.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson28_BinarySearch_Solution\Lesson28_BinarySearch\obj\Debug\Lesson28_BinarySearch.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson28_BinarySearch_Solution\Lesson28_BinarySearch\obj\Debug\Lesson28_BinarySearch.pdb

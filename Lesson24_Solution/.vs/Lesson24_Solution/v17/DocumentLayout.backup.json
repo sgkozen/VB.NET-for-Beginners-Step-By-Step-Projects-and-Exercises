@@ -1,0 +1,59 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VB.NET for Beginners Step By Step Projects and Exercises\\Lesson24_Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B61E980-F189-48D0-8AEF-852CE2DAA1D5}|Lesson24\\Lesson24.vbproj|c:\\vb.net for beginners step by step projects and exercises\\alphabeticalorder.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B61E980-F189-48D0-8AEF-852CE2DAA1D5}|Lesson24\\Lesson24.vbproj|c:\\vb.net for beginners step by step projects and exercises\\alphabeticalorder.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlphabeticalOrder.vb",
+              "DocumentMoniker": "C:\\VB.NET for Beginners Step By Step Projects and Exercises\\AlphabeticalOrder.vb",
+              "RelativeDocumentMoniker": "..\\AlphabeticalOrder.vb",
+              "ToolTip": "C:\\VB.NET for Beginners Step By Step Projects and Exercises\\AlphabeticalOrder.vb",
+              "RelativeToolTip": "..\\AlphabeticalOrder.vb",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-25T00:15:22.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlphabeticalOrder.vb [Design]",
+              "DocumentMoniker": "C:\\VB.NET for Beginners Step By Step Projects and Exercises\\AlphabeticalOrder.vb",
+              "RelativeDocumentMoniker": "..\\AlphabeticalOrder.vb",
+              "ToolTip": "C:\\VB.NET for Beginners Step By Step Projects and Exercises\\AlphabeticalOrder.vb [Design]",
+              "RelativeToolTip": "..\\AlphabeticalOrder.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-25T00:02:29.989Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

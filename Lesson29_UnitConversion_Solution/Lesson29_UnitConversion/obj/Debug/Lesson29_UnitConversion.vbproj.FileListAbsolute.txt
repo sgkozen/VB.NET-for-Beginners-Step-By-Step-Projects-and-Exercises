@@ -1,0 +1,12 @@
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson29_UnitConversion_Solution\Lesson29_UnitConversion\bin\Debug\Lesson29_UnitConversion.exe.config
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson29_UnitConversion_Solution\Lesson29_UnitConversion\bin\Debug\Lesson29_UnitConversion.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson29_UnitConversion_Solution\Lesson29_UnitConversion\bin\Debug\Lesson29_UnitConversion.pdb
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson29_UnitConversion_Solution\Lesson29_UnitConversion\bin\Debug\Lesson29_UnitConversion.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson29_UnitConversion_Solution\Lesson29_UnitConversion\obj\Debug\Lesson29_UnitConversion.vbproj.AssemblyReference.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson29_UnitConversion_Solution\Lesson29_UnitConversion\obj\Debug\Lesson29_UnitConversion.Resources.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson29_UnitConversion_Solution\Lesson29_UnitConversion\obj\Debug\Lesson29_UnitConversion.UnitConversion.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson29_UnitConversion_Solution\Lesson29_UnitConversion\obj\Debug\Lesson29_UnitConversion.vbproj.GenerateResource.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson29_UnitConversion_Solution\Lesson29_UnitConversion\obj\Debug\Lesson29_UnitConversion.vbproj.CoreCompileInputs.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson29_UnitConversion_Solution\Lesson29_UnitConversion\obj\Debug\Lesson29_UnitConversion.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson29_UnitConversion_Solution\Lesson29_UnitConversion\obj\Debug\Lesson29_UnitConversion.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson29_UnitConversion_Solution\Lesson29_UnitConversion\obj\Debug\Lesson29_UnitConversion.pdb

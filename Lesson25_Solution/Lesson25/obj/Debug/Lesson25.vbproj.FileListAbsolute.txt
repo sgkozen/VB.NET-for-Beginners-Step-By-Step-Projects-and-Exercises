@@ -1,0 +1,12 @@
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson25_Solution\Lesson25\bin\Debug\Lesson25.exe.config
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson25_Solution\Lesson25\bin\Debug\Lesson25.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson25_Solution\Lesson25\bin\Debug\Lesson25.pdb
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson25_Solution\Lesson25\bin\Debug\Lesson25.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson25_Solution\Lesson25\obj\Debug\Lesson25.vbproj.AssemblyReference.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson25_Solution\Lesson25\obj\Debug\Lesson25.Resources.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson25_Solution\Lesson25\obj\Debug\Lesson25.Parentheses.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson25_Solution\Lesson25\obj\Debug\Lesson25.vbproj.GenerateResource.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson25_Solution\Lesson25\obj\Debug\Lesson25.vbproj.CoreCompileInputs.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson25_Solution\Lesson25\obj\Debug\Lesson25.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson25_Solution\Lesson25\obj\Debug\Lesson25.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson25_Solution\Lesson25\obj\Debug\Lesson25.pdb

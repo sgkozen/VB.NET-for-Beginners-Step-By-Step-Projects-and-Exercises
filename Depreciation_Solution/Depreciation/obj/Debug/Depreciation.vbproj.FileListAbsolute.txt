@@ -1,0 +1,12 @@
+C:\Users\skouz\source\repos\Depreciation_Solution\Depreciation\obj\Debug\Depreciation.vbproj.AssemblyReference.cache
+C:\Users\skouz\source\repos\Depreciation_Solution\Depreciation\obj\Debug\Depreciation.Depreciation.resources
+C:\Users\skouz\source\repos\Depreciation_Solution\Depreciation\obj\Debug\Depreciation.Resources.resources
+C:\Users\skouz\source\repos\Depreciation_Solution\Depreciation\obj\Debug\Depreciation.vbproj.GenerateResource.cache
+C:\Users\skouz\source\repos\Depreciation_Solution\Depreciation\obj\Debug\Depreciation.vbproj.CoreCompileInputs.cache
+C:\Users\skouz\source\repos\Depreciation_Solution\Depreciation\bin\Debug\Depreciation.exe.config
+C:\Users\skouz\source\repos\Depreciation_Solution\Depreciation\bin\Debug\Depreciation.exe
+C:\Users\skouz\source\repos\Depreciation_Solution\Depreciation\bin\Debug\Depreciation.pdb
+C:\Users\skouz\source\repos\Depreciation_Solution\Depreciation\bin\Debug\Depreciation.xml
+C:\Users\skouz\source\repos\Depreciation_Solution\Depreciation\obj\Debug\Depreciation.exe
+C:\Users\skouz\source\repos\Depreciation_Solution\Depreciation\obj\Debug\Depreciation.xml
+C:\Users\skouz\source\repos\Depreciation_Solution\Depreciation\obj\Debug\Depreciation.pdb

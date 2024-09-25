@@ -1,0 +1,12 @@
+C:\Users\skouz\source\repos\Projectile MotionSolution\Pr0jectile Motion\bin\Debug\Pr0jectile Motion.exe.config
+C:\Users\skouz\source\repos\Projectile MotionSolution\Pr0jectile Motion\bin\Debug\Pr0jectile Motion.exe
+C:\Users\skouz\source\repos\Projectile MotionSolution\Pr0jectile Motion\bin\Debug\Pr0jectile Motion.pdb
+C:\Users\skouz\source\repos\Projectile MotionSolution\Pr0jectile Motion\bin\Debug\Pr0jectile Motion.xml
+C:\Users\skouz\source\repos\Projectile MotionSolution\Pr0jectile Motion\obj\Debug\Projectile Motion.vbproj.AssemblyReference.cache
+C:\Users\skouz\source\repos\Projectile MotionSolution\Pr0jectile Motion\obj\Debug\Pr0jectile_Motion.ProjectileMotion.resources
+C:\Users\skouz\source\repos\Projectile MotionSolution\Pr0jectile Motion\obj\Debug\Pr0jectile_Motion.Resources.resources
+C:\Users\skouz\source\repos\Projectile MotionSolution\Pr0jectile Motion\obj\Debug\Projectile Motion.vbproj.GenerateResource.cache
+C:\Users\skouz\source\repos\Projectile MotionSolution\Pr0jectile Motion\obj\Debug\Projectile Motion.vbproj.CoreCompileInputs.cache
+C:\Users\skouz\source\repos\Projectile MotionSolution\Pr0jectile Motion\obj\Debug\Pr0jectile Motion.exe
+C:\Users\skouz\source\repos\Projectile MotionSolution\Pr0jectile Motion\obj\Debug\Pr0jectile Motion.xml
+C:\Users\skouz\source\repos\Projectile MotionSolution\Pr0jectile Motion\obj\Debug\Pr0jectile Motion.pdb

@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\skouz\\source\\repos\\Depreciation_Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4288B0C2-1972-4418-847A-81CE36A2ABAD}|Depreciation\\Depreciation.vbproj|c:\\users\\skouz\\source\\repos\\depreciation_solution\\depreciation\\depreciation.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{4288B0C2-1972-4418-847A-81CE36A2ABAD}|Depreciation\\Depreciation.vbproj|solutionrelative:depreciation\\depreciation.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4288B0C2-1972-4418-847A-81CE36A2ABAD}|Depreciation\\Depreciation.vbproj|c:\\users\\skouz\\source\\repos\\depreciation_solution\\depreciation\\depreciation.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{4288B0C2-1972-4418-847A-81CE36A2ABAD}|Depreciation\\Depreciation.vbproj|solutionrelative:depreciation\\depreciation.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Depreciation.vb",
+              "DocumentMoniker": "C:\\Users\\skouz\\source\\repos\\Depreciation_Solution\\Depreciation\\Depreciation.vb",
+              "RelativeDocumentMoniker": "Depreciation\\Depreciation.vb",
+              "ToolTip": "C:\\Users\\skouz\\source\\repos\\Depreciation_Solution\\Depreciation\\Depreciation.vb",
+              "RelativeToolTip": "Depreciation\\Depreciation.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-24T06:11:42.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Depreciation.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\skouz\\source\\repos\\Depreciation_Solution\\Depreciation\\Depreciation.vb",
+              "RelativeDocumentMoniker": "Depreciation\\Depreciation.vb",
+              "ToolTip": "C:\\Users\\skouz\\source\\repos\\Depreciation_Solution\\Depreciation\\Depreciation.vb [Design]",
+              "RelativeToolTip": "Depreciation\\Depreciation.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-09-24T06:10:19.501Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

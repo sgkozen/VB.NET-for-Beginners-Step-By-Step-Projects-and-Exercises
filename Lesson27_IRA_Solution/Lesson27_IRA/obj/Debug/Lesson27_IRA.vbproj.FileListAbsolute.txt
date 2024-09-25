@@ -1,0 +1,12 @@
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson27_IRA_Solution\Lesson27_IRA\bin\Debug\Lesson27_IRA.exe.config
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson27_IRA_Solution\Lesson27_IRA\bin\Debug\Lesson27_IRA.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson27_IRA_Solution\Lesson27_IRA\bin\Debug\Lesson27_IRA.pdb
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson27_IRA_Solution\Lesson27_IRA\bin\Debug\Lesson27_IRA.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson27_IRA_Solution\Lesson27_IRA\obj\Debug\Lesson27_IRA.vbproj.AssemblyReference.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson27_IRA_Solution\Lesson27_IRA\obj\Debug\Lesson27_IRA.IRA.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson27_IRA_Solution\Lesson27_IRA\obj\Debug\Lesson27_IRA.Resources.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson27_IRA_Solution\Lesson27_IRA\obj\Debug\Lesson27_IRA.vbproj.GenerateResource.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson27_IRA_Solution\Lesson27_IRA\obj\Debug\Lesson27_IRA.vbproj.CoreCompileInputs.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson27_IRA_Solution\Lesson27_IRA\obj\Debug\Lesson27_IRA.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson27_IRA_Solution\Lesson27_IRA\obj\Debug\Lesson27_IRA.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson27_IRA_Solution\Lesson27_IRA\obj\Debug\Lesson27_IRA.pdb
