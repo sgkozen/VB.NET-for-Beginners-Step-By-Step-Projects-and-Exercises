@@ -1,0 +1,12 @@
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson33_Translator_Solution\Lesson33_Translator\obj\Debug\Lesson33_Translator.vbproj.AssemblyReference.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson33_Translator_Solution\Lesson33_Translator\obj\Debug\Lesson33_Translator.Resources.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson33_Translator_Solution\Lesson33_Translator\obj\Debug\Lesson33_Translator.Translator.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson33_Translator_Solution\Lesson33_Translator\obj\Debug\Lesson33_Translator.vbproj.GenerateResource.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson33_Translator_Solution\Lesson33_Translator\obj\Debug\Lesson33_Translator.vbproj.CoreCompileInputs.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson33_Translator_Solution\Lesson33_Translator\bin\Debug\Lesson33_Translator.exe.config
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson33_Translator_Solution\Lesson33_Translator\bin\Debug\Lesson33_Translator.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson33_Translator_Solution\Lesson33_Translator\bin\Debug\Lesson33_Translator.pdb
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson33_Translator_Solution\Lesson33_Translator\bin\Debug\Lesson33_Translator.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson33_Translator_Solution\Lesson33_Translator\obj\Debug\Lesson33_Translator.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson33_Translator_Solution\Lesson33_Translator\obj\Debug\Lesson33_Translator.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson33_Translator_Solution\Lesson33_Translator\obj\Debug\Lesson33_Translator.pdb

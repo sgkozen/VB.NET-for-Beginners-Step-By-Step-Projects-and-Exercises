@@ -1,0 +1,12 @@
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson30_ISBNValidator_Solution\Lesson30_ISBNValidator\bin\Debug\Lesson30_ISBNValidator.exe.config
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson30_ISBNValidator_Solution\Lesson30_ISBNValidator\bin\Debug\Lesson30_ISBNValidator.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson30_ISBNValidator_Solution\Lesson30_ISBNValidator\bin\Debug\Lesson30_ISBNValidator.pdb
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson30_ISBNValidator_Solution\Lesson30_ISBNValidator\bin\Debug\Lesson30_ISBNValidator.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson30_ISBNValidator_Solution\Lesson30_ISBNValidator\obj\Debug\Lesson30_ISBNValidator.vbproj.AssemblyReference.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson30_ISBNValidator_Solution\Lesson30_ISBNValidator\obj\Debug\Lesson30_ISBNValidator.ISBN_Validator.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson30_ISBNValidator_Solution\Lesson30_ISBNValidator\obj\Debug\Lesson30_ISBNValidator.Resources.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson30_ISBNValidator_Solution\Lesson30_ISBNValidator\obj\Debug\Lesson30_ISBNValidator.vbproj.GenerateResource.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson30_ISBNValidator_Solution\Lesson30_ISBNValidator\obj\Debug\Lesson30_ISBNValidator.vbproj.CoreCompileInputs.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson30_ISBNValidator_Solution\Lesson30_ISBNValidator\obj\Debug\Lesson30_ISBNValidator.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson30_ISBNValidator_Solution\Lesson30_ISBNValidator\obj\Debug\Lesson30_ISBNValidator.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson30_ISBNValidator_Solution\Lesson30_ISBNValidator\obj\Debug\Lesson30_ISBNValidator.pdb

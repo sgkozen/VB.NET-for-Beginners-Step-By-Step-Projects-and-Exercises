@@ -1,0 +1,12 @@
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson31_CurveGrades_Solution\Lesson31_CurveGrades\bin\Debug\Lesson31_CurveGrades.exe.config
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson31_CurveGrades_Solution\Lesson31_CurveGrades\bin\Debug\Lesson31_CurveGrades.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson31_CurveGrades_Solution\Lesson31_CurveGrades\bin\Debug\Lesson31_CurveGrades.pdb
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson31_CurveGrades_Solution\Lesson31_CurveGrades\bin\Debug\Lesson31_CurveGrades.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson31_CurveGrades_Solution\Lesson31_CurveGrades\obj\Debug\Lesson31_CurveGrades.vbproj.AssemblyReference.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson31_CurveGrades_Solution\Lesson31_CurveGrades\obj\Debug\Lesson31_CurveGrades.CurveGrades.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson31_CurveGrades_Solution\Lesson31_CurveGrades\obj\Debug\Lesson31_CurveGrades.Resources.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson31_CurveGrades_Solution\Lesson31_CurveGrades\obj\Debug\Lesson31_CurveGrades.vbproj.GenerateResource.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson31_CurveGrades_Solution\Lesson31_CurveGrades\obj\Debug\Lesson31_CurveGrades.vbproj.CoreCompileInputs.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson31_CurveGrades_Solution\Lesson31_CurveGrades\obj\Debug\Lesson31_CurveGrades.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson31_CurveGrades_Solution\Lesson31_CurveGrades\obj\Debug\Lesson31_CurveGrades.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson31_CurveGrades_Solution\Lesson31_CurveGrades\obj\Debug\Lesson31_CurveGrades.pdb

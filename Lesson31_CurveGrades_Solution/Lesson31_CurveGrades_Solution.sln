@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Lesson31_CurveGrades", "Lesson31_CurveGrades\Lesson31_CurveGrades.vbproj", "{E6129734-C1DA-4D3B-9FD3-C254F8F36338}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6129734-C1DA-4D3B-9FD3-C254F8F36338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6129734-C1DA-4D3B-9FD3-C254F8F36338}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6129734-C1DA-4D3B-9FD3-C254F8F36338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6129734-C1DA-4D3B-9FD3-C254F8F36338}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2EFFBA5-1DFA-44C0-A8DC-349EEDAF6011}
+	EndGlobalSection
+EndGlobal

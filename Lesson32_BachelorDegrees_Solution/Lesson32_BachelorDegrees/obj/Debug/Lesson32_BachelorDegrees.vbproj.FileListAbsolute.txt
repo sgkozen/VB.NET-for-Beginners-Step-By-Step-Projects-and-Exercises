@@ -1,0 +1,12 @@
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson32_BachelorDegrees_Solution\Lesson32_BachelorDegrees\bin\Debug\Lesson32_BachelorDegrees.exe.config
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson32_BachelorDegrees_Solution\Lesson32_BachelorDegrees\bin\Debug\Lesson32_BachelorDegrees.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson32_BachelorDegrees_Solution\Lesson32_BachelorDegrees\bin\Debug\Lesson32_BachelorDegrees.pdb
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson32_BachelorDegrees_Solution\Lesson32_BachelorDegrees\bin\Debug\Lesson32_BachelorDegrees.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson32_BachelorDegrees_Solution\Lesson32_BachelorDegrees\obj\Debug\Lesson32_BachelorDegrees.vbproj.AssemblyReference.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson32_BachelorDegrees_Solution\Lesson32_BachelorDegrees\obj\Debug\Lesson32_BachelorDegrees.BachelorDegrees.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson32_BachelorDegrees_Solution\Lesson32_BachelorDegrees\obj\Debug\Lesson32_BachelorDegrees.Resources.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson32_BachelorDegrees_Solution\Lesson32_BachelorDegrees\obj\Debug\Lesson32_BachelorDegrees.vbproj.GenerateResource.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson32_BachelorDegrees_Solution\Lesson32_BachelorDegrees\obj\Debug\Lesson32_BachelorDegrees.vbproj.CoreCompileInputs.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson32_BachelorDegrees_Solution\Lesson32_BachelorDegrees\obj\Debug\Lesson32_BachelorDegrees.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson32_BachelorDegrees_Solution\Lesson32_BachelorDegrees\obj\Debug\Lesson32_BachelorDegrees.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson32_BachelorDegrees_Solution\Lesson32_BachelorDegrees\obj\Debug\Lesson32_BachelorDegrees.pdb
