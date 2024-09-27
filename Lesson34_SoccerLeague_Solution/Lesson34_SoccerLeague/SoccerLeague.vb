@@ -14,7 +14,7 @@
                                 {1, 0, 1, -1, 1, 1},
                                 {1, 1, 0, 0, -1, 1},
                                 {0, 1, 0, 0, 0, -1}
-                                }
+    }
 
 
     Private Sub AssignNames()
@@ -27,9 +27,27 @@
     End Sub
 
 
-
-
     Private Sub btnDisplay_Click(sender As Object, e As EventArgs) Handles btnDisplay.Click
         AssignNames()
+
+        For r = 0 To NumTeams - 1
+            For c = 0 To NumTeams - 1
+                If data(r, c) = 1 Then
+                    teamArr(r).wins += 1
+                End If
+            Next
+        Next
+
+        Dim query = From team In teamArr
+                    Let Name As String = team.name
+                    Let Wins As Integer = team.wins
+                    Order By Wins Descending
+                    Select Name, Wins
+
+        grdScores.DataSource = query.ToList
+        grdScores.Columns(0).HeaderText = "Team"
+        grdScores.Columns(1).HeaderText = "Wins"
+
     End Sub
+
 End Class

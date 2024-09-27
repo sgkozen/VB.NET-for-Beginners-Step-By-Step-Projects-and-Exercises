@@ -40,7 +40,7 @@ Partial Class SoccerLeague
         'grdScores
         '
         Me.grdScores.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.grdScores.Location = New System.Drawing.Point(22, 335)
+        Me.grdScores.Location = New System.Drawing.Point(12, 335)
         Me.grdScores.Name = "grdScores"
         Me.grdScores.RowHeadersWidth = 62
         Me.grdScores.RowTemplate.Height = 27

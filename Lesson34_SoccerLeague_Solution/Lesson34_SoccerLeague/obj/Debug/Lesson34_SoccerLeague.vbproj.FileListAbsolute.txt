@@ -1,0 +1,12 @@
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson34_SoccerLeague_Solution\Lesson34_SoccerLeague\bin\Debug\Lesson34_SoccerLeague.exe.config
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson34_SoccerLeague_Solution\Lesson34_SoccerLeague\bin\Debug\Lesson34_SoccerLeague.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson34_SoccerLeague_Solution\Lesson34_SoccerLeague\bin\Debug\Lesson34_SoccerLeague.pdb
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson34_SoccerLeague_Solution\Lesson34_SoccerLeague\bin\Debug\Lesson34_SoccerLeague.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson34_SoccerLeague_Solution\Lesson34_SoccerLeague\obj\Debug\Lesson34_SoccerLeague.vbproj.AssemblyReference.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson34_SoccerLeague_Solution\Lesson34_SoccerLeague\obj\Debug\Lesson34_SoccerLeague.Resources.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson34_SoccerLeague_Solution\Lesson34_SoccerLeague\obj\Debug\Lesson34_SoccerLeague.SoccerLeague.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson34_SoccerLeague_Solution\Lesson34_SoccerLeague\obj\Debug\Lesson34_SoccerLeague.vbproj.GenerateResource.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson34_SoccerLeague_Solution\Lesson34_SoccerLeague\obj\Debug\Lesson34_SoccerLeague.vbproj.CoreCompileInputs.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson34_SoccerLeague_Solution\Lesson34_SoccerLeague\obj\Debug\Lesson34_SoccerLeague.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson34_SoccerLeague_Solution\Lesson34_SoccerLeague\obj\Debug\Lesson34_SoccerLeague.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson34_SoccerLeague_Solution\Lesson34_SoccerLeague\obj\Debug\Lesson34_SoccerLeague.pdb

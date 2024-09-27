@@ -1,0 +1,12 @@
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson36_AirReservation_Solution\Lesson36_AirReservation\obj\Debug\Lesson36_AirReservation.vbproj.AssemblyReference.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson36_AirReservation_Solution\Lesson36_AirReservation\obj\Debug\Lesson36_AirReservation.AirlineReservation.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson36_AirReservation_Solution\Lesson36_AirReservation\obj\Debug\Lesson36_AirReservation.Resources.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson36_AirReservation_Solution\Lesson36_AirReservation\obj\Debug\Lesson36_AirReservation.vbproj.GenerateResource.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson36_AirReservation_Solution\Lesson36_AirReservation\obj\Debug\Lesson36_AirReservation.vbproj.CoreCompileInputs.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson36_AirReservation_Solution\Lesson36_AirReservation\bin\Debug\Lesson36_AirReservation.exe.config
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson36_AirReservation_Solution\Lesson36_AirReservation\bin\Debug\Lesson36_AirReservation.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson36_AirReservation_Solution\Lesson36_AirReservation\bin\Debug\Lesson36_AirReservation.pdb
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson36_AirReservation_Solution\Lesson36_AirReservation\bin\Debug\Lesson36_AirReservation.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson36_AirReservation_Solution\Lesson36_AirReservation\obj\Debug\Lesson36_AirReservation.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson36_AirReservation_Solution\Lesson36_AirReservation\obj\Debug\Lesson36_AirReservation.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson36_AirReservation_Solution\Lesson36_AirReservation\obj\Debug\Lesson36_AirReservation.pdb

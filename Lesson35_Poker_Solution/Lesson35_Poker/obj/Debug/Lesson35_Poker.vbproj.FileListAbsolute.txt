@@ -1,0 +1,12 @@
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson35_Poker_Solution\Lesson35_Poker\bin\Debug\Lesson35_Poker.exe.config
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson35_Poker_Solution\Lesson35_Poker\bin\Debug\Lesson35_Poker.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson35_Poker_Solution\Lesson35_Poker\bin\Debug\Lesson35_Poker.pdb
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson35_Poker_Solution\Lesson35_Poker\bin\Debug\Lesson35_Poker.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson35_Poker_Solution\Lesson35_Poker\obj\Debug\Lesson35_Poker.vbproj.AssemblyReference.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson35_Poker_Solution\Lesson35_Poker\obj\Debug\Lesson35_Poker.Resources.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson35_Poker_Solution\Lesson35_Poker\obj\Debug\Lesson35_Poker.Poker.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson35_Poker_Solution\Lesson35_Poker\obj\Debug\Lesson35_Poker.vbproj.GenerateResource.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson35_Poker_Solution\Lesson35_Poker\obj\Debug\Lesson35_Poker.vbproj.CoreCompileInputs.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson35_Poker_Solution\Lesson35_Poker\obj\Debug\Lesson35_Poker.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson35_Poker_Solution\Lesson35_Poker\obj\Debug\Lesson35_Poker.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson35_Poker_Solution\Lesson35_Poker\obj\Debug\Lesson35_Poker.pdb
