@@ -1,0 +1,12 @@
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson41_USSenate_Solution\Lesson41_USSenate\obj\Debug\Lesson41_USSenate.vbproj.AssemblyReference.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson41_USSenate_Solution\Lesson41_USSenate\obj\Debug\Lesson41_USSenate.USSenate.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson41_USSenate_Solution\Lesson41_USSenate\obj\Debug\Lesson41_USSenate.Resources.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson41_USSenate_Solution\Lesson41_USSenate\obj\Debug\Lesson41_USSenate.vbproj.GenerateResource.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson41_USSenate_Solution\Lesson41_USSenate\obj\Debug\Lesson41_USSenate.vbproj.CoreCompileInputs.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson41_USSenate_Solution\Lesson41_USSenate\bin\Debug\Lesson41_USSenate.exe.config
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson41_USSenate_Solution\Lesson41_USSenate\bin\Debug\Lesson41_USSenate.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson41_USSenate_Solution\Lesson41_USSenate\bin\Debug\Lesson41_USSenate.pdb
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson41_USSenate_Solution\Lesson41_USSenate\bin\Debug\Lesson41_USSenate.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson41_USSenate_Solution\Lesson41_USSenate\obj\Debug\Lesson41_USSenate.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson41_USSenate_Solution\Lesson41_USSenate\obj\Debug\Lesson41_USSenate.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson41_USSenate_Solution\Lesson41_USSenate\obj\Debug\Lesson41_USSenate.pdb

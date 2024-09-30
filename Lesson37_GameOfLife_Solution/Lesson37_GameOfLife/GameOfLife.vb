@@ -1,7 +1,4 @@
-﻿Imports System.Data.Common
-Imports System.Runtime.InteropServices
-
-Public Class GameOfLife
+﻿Public Class GameOfLife
 
     Dim current(,) As Boolean
     Dim generation As Integer = 1
@@ -59,7 +56,7 @@ Public Class GameOfLife
         Dim count As Integer = 0
         For r As Integer = row - 1 To row + 1
             For c As Integer = column - 1 To column + 1
-                If ((r <> row) Or (c <> column) And (r >= 1) And (r <= size) And (c >= 1) And (c <= size)) Then
+                If ((r <> row) Or (c <> column)) And (r >= 1) And (r <= size) And (c >= 1) And (c <= size) Then
                     If current(r, c) Then
                         count += 1
                     End If

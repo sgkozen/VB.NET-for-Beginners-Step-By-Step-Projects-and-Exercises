@@ -1,0 +1,12 @@
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson39_FuelEconomy_Solution\Lesson39_FuelEconomy\bin\Debug\Lesson39_FuelEconomy.exe.config
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson39_FuelEconomy_Solution\Lesson39_FuelEconomy\bin\Debug\Lesson39_FuelEconomy.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson39_FuelEconomy_Solution\Lesson39_FuelEconomy\bin\Debug\Lesson39_FuelEconomy.pdb
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson39_FuelEconomy_Solution\Lesson39_FuelEconomy\bin\Debug\Lesson39_FuelEconomy.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson39_FuelEconomy_Solution\Lesson39_FuelEconomy\obj\Debug\Lesson39_FuelEconomy.vbproj.AssemblyReference.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson39_FuelEconomy_Solution\Lesson39_FuelEconomy\obj\Debug\Lesson39_FuelEconomy.FuelEconomy.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson39_FuelEconomy_Solution\Lesson39_FuelEconomy\obj\Debug\Lesson39_FuelEconomy.Resources.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson39_FuelEconomy_Solution\Lesson39_FuelEconomy\obj\Debug\Lesson39_FuelEconomy.vbproj.GenerateResource.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson39_FuelEconomy_Solution\Lesson39_FuelEconomy\obj\Debug\Lesson39_FuelEconomy.vbproj.CoreCompileInputs.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson39_FuelEconomy_Solution\Lesson39_FuelEconomy\obj\Debug\Lesson39_FuelEconomy.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson39_FuelEconomy_Solution\Lesson39_FuelEconomy\obj\Debug\Lesson39_FuelEconomy.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson39_FuelEconomy_Solution\Lesson39_FuelEconomy\obj\Debug\Lesson39_FuelEconomy.pdb

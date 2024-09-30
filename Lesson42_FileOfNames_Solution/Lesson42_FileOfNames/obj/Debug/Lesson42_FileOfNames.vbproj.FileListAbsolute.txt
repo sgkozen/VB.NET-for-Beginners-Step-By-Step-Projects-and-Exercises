@@ -1,0 +1,12 @@
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson42_FileOfNames_Solution\Lesson42_FileOfNames\bin\Debug\Lesson42_FileOfNames.exe.config
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson42_FileOfNames_Solution\Lesson42_FileOfNames\bin\Debug\Lesson42_FileOfNames.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson42_FileOfNames_Solution\Lesson42_FileOfNames\bin\Debug\Lesson42_FileOfNames.pdb
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson42_FileOfNames_Solution\Lesson42_FileOfNames\bin\Debug\Lesson42_FileOfNames.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson42_FileOfNames_Solution\Lesson42_FileOfNames\obj\Debug\Lesson42_FileOfNames.vbproj.AssemblyReference.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson42_FileOfNames_Solution\Lesson42_FileOfNames\obj\Debug\Lesson42_FileOfNames.FileOfNames.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson42_FileOfNames_Solution\Lesson42_FileOfNames\obj\Debug\Lesson42_FileOfNames.Resources.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson42_FileOfNames_Solution\Lesson42_FileOfNames\obj\Debug\Lesson42_FileOfNames.vbproj.GenerateResource.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson42_FileOfNames_Solution\Lesson42_FileOfNames\obj\Debug\Lesson42_FileOfNames.vbproj.CoreCompileInputs.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson42_FileOfNames_Solution\Lesson42_FileOfNames\obj\Debug\Lesson42_FileOfNames.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson42_FileOfNames_Solution\Lesson42_FileOfNames\obj\Debug\Lesson42_FileOfNames.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson42_FileOfNames_Solution\Lesson42_FileOfNames\obj\Debug\Lesson42_FileOfNames.pdb

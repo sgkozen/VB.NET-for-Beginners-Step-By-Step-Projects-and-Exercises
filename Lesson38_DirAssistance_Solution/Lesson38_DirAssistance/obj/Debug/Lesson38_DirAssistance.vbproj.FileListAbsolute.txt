@@ -1,0 +1,12 @@
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson38_DirAssistance_Solution\Lesson38_DirAssistance\bin\Debug\Lesson38_DirAssistance.exe.config
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson38_DirAssistance_Solution\Lesson38_DirAssistance\bin\Debug\Lesson38_DirAssistance.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson38_DirAssistance_Solution\Lesson38_DirAssistance\bin\Debug\Lesson38_DirAssistance.pdb
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson38_DirAssistance_Solution\Lesson38_DirAssistance\bin\Debug\Lesson38_DirAssistance.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson38_DirAssistance_Solution\Lesson38_DirAssistance\obj\Debug\Lesson38_DirAssistance.vbproj.AssemblyReference.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson38_DirAssistance_Solution\Lesson38_DirAssistance\obj\Debug\Lesson38_DirAssistance.DirectoryAssistance.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson38_DirAssistance_Solution\Lesson38_DirAssistance\obj\Debug\Lesson38_DirAssistance.Resources.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson38_DirAssistance_Solution\Lesson38_DirAssistance\obj\Debug\Lesson38_DirAssistance.vbproj.GenerateResource.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson38_DirAssistance_Solution\Lesson38_DirAssistance\obj\Debug\Lesson38_DirAssistance.vbproj.CoreCompileInputs.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson38_DirAssistance_Solution\Lesson38_DirAssistance\obj\Debug\Lesson38_DirAssistance.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson38_DirAssistance_Solution\Lesson38_DirAssistance\obj\Debug\Lesson38_DirAssistance.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson38_DirAssistance_Solution\Lesson38_DirAssistance\obj\Debug\Lesson38_DirAssistance.pdb

@@ -1,0 +1,12 @@
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson43_TeleDir_Solution\Lesson43_TeleDir\bin\Debug\Lesson43_TeleDir.exe.config
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson43_TeleDir_Solution\Lesson43_TeleDir\bin\Debug\Lesson43_TeleDir.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson43_TeleDir_Solution\Lesson43_TeleDir\bin\Debug\Lesson43_TeleDir.pdb
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson43_TeleDir_Solution\Lesson43_TeleDir\bin\Debug\Lesson43_TeleDir.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson43_TeleDir_Solution\Lesson43_TeleDir\obj\Debug\Lesson43_TeleDir.vbproj.AssemblyReference.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson43_TeleDir_Solution\Lesson43_TeleDir\obj\Debug\Lesson43_TeleDir.Resources.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson43_TeleDir_Solution\Lesson43_TeleDir\obj\Debug\Lesson43_TeleDir.TelephoneDirectory.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson43_TeleDir_Solution\Lesson43_TeleDir\obj\Debug\Lesson43_TeleDir.vbproj.GenerateResource.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson43_TeleDir_Solution\Lesson43_TeleDir\obj\Debug\Lesson43_TeleDir.vbproj.CoreCompileInputs.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson43_TeleDir_Solution\Lesson43_TeleDir\obj\Debug\Lesson43_TeleDir.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson43_TeleDir_Solution\Lesson43_TeleDir\obj\Debug\Lesson43_TeleDir.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson43_TeleDir_Solution\Lesson43_TeleDir\obj\Debug\Lesson43_TeleDir.pdb
