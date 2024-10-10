@@ -1,0 +1,12 @@
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson55_BankAccount_Solution\Lesson55_BankAccount\bin\Debug\Lesson55_BankAccount.exe.config
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson55_BankAccount_Solution\Lesson55_BankAccount\bin\Debug\Lesson55_BankAccount.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson55_BankAccount_Solution\Lesson55_BankAccount\bin\Debug\Lesson55_BankAccount.pdb
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson55_BankAccount_Solution\Lesson55_BankAccount\bin\Debug\Lesson55_BankAccount.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson55_BankAccount_Solution\Lesson55_BankAccount\obj\Debug\Lesson55_BankAccount.vbproj.AssemblyReference.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson55_BankAccount_Solution\Lesson55_BankAccount\obj\Debug\Lesson55_BankAccount.BankAccount.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson55_BankAccount_Solution\Lesson55_BankAccount\obj\Debug\Lesson55_BankAccount.Resources.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson55_BankAccount_Solution\Lesson55_BankAccount\obj\Debug\Lesson55_BankAccount.vbproj.GenerateResource.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson55_BankAccount_Solution\Lesson55_BankAccount\obj\Debug\Lesson55_BankAccount.vbproj.CoreCompileInputs.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson55_BankAccount_Solution\Lesson55_BankAccount\obj\Debug\Lesson55_BankAccount.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson55_BankAccount_Solution\Lesson55_BankAccount\obj\Debug\Lesson55_BankAccount.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson55_BankAccount_Solution\Lesson55_BankAccount\obj\Debug\Lesson55_BankAccount.pdb

@@ -1,0 +1,12 @@
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson45_Baseball_Solution\Lesson45_Baseball\bin\Debug\Lesson45_Baseball.exe.config
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson45_Baseball_Solution\Lesson45_Baseball\bin\Debug\Lesson45_Baseball.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson45_Baseball_Solution\Lesson45_Baseball\bin\Debug\Lesson45_Baseball.pdb
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson45_Baseball_Solution\Lesson45_Baseball\bin\Debug\Lesson45_Baseball.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson45_Baseball_Solution\Lesson45_Baseball\obj\Debug\Lesson45_Baseball.vbproj.AssemblyReference.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson45_Baseball_Solution\Lesson45_Baseball\obj\Debug\Lesson45_Baseball.Baseball.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson45_Baseball_Solution\Lesson45_Baseball\obj\Debug\Lesson45_Baseball.Resources.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson45_Baseball_Solution\Lesson45_Baseball\obj\Debug\Lesson45_Baseball.vbproj.GenerateResource.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson45_Baseball_Solution\Lesson45_Baseball\obj\Debug\Lesson45_Baseball.vbproj.CoreCompileInputs.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson45_Baseball_Solution\Lesson45_Baseball\obj\Debug\Lesson45_Baseball.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson45_Baseball_Solution\Lesson45_Baseball\obj\Debug\Lesson45_Baseball.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson45_Baseball_Solution\Lesson45_Baseball\obj\Debug\Lesson45_Baseball.pdb

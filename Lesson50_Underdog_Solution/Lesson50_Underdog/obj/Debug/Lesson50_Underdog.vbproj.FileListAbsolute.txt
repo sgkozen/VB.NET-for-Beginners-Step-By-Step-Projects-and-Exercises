@@ -1,0 +1,12 @@
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson50_Underdog_Solution\Lesson50_Underdog\bin\Debug\Lesson50_Underdog.exe.config
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson50_Underdog_Solution\Lesson50_Underdog\bin\Debug\Lesson50_Underdog.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson50_Underdog_Solution\Lesson50_Underdog\bin\Debug\Lesson50_Underdog.pdb
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson50_Underdog_Solution\Lesson50_Underdog\bin\Debug\Lesson50_Underdog.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson50_Underdog_Solution\Lesson50_Underdog\obj\Debug\Lesson50_Underdog.vbproj.AssemblyReference.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson50_Underdog_Solution\Lesson50_Underdog\obj\Debug\Lesson50_Underdog.Resources.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson50_Underdog_Solution\Lesson50_Underdog\obj\Debug\Lesson50_Underdog.UnderdogAndWS.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson50_Underdog_Solution\Lesson50_Underdog\obj\Debug\Lesson50_Underdog.vbproj.GenerateResource.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson50_Underdog_Solution\Lesson50_Underdog\obj\Debug\Lesson50_Underdog.vbproj.CoreCompileInputs.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson50_Underdog_Solution\Lesson50_Underdog\obj\Debug\Lesson50_Underdog.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson50_Underdog_Solution\Lesson50_Underdog\obj\Debug\Lesson50_Underdog.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson50_Underdog_Solution\Lesson50_Underdog\obj\Debug\Lesson50_Underdog.pdb

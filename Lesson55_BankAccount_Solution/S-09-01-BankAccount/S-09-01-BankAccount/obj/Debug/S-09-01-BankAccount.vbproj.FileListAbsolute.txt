@@ -1,0 +1,12 @@
+C:\Users\pavol\AppData\Local\Temporary Projects\S-09-01-BankAccount\bin\Debug\S-09-01-BankAccount.exe.config
+C:\Users\pavol\OneDrive\Documents\Visual Studio 2015\Projects\S-09-01-BankAccount\S-09-01-BankAccount\bin\Debug\S-09-01-BankAccount.exe.config
+C:\Users\pavol\OneDrive\Documents\Visual Studio 2015\Projects\S-09-01-BankAccount\S-09-01-BankAccount\bin\Debug\S-09-01-BankAccount.exe
+C:\Users\pavol\OneDrive\Documents\Visual Studio 2015\Projects\S-09-01-BankAccount\S-09-01-BankAccount\bin\Debug\S-09-01-BankAccount.pdb
+C:\Users\pavol\OneDrive\Documents\Visual Studio 2015\Projects\S-09-01-BankAccount\S-09-01-BankAccount\bin\Debug\S-09-01-BankAccount.xml
+C:\Users\pavol\OneDrive\Documents\Visual Studio 2015\Projects\S-09-01-BankAccount\S-09-01-BankAccount\obj\Debug\S-09-01-BankAccount.vbprojResolveAssemblyReference.cache
+C:\Users\pavol\OneDrive\Documents\Visual Studio 2015\Projects\S-09-01-BankAccount\S-09-01-BankAccount\obj\Debug\S_09_01_BankAccount.frmBankAccount.resources
+C:\Users\pavol\OneDrive\Documents\Visual Studio 2015\Projects\S-09-01-BankAccount\S-09-01-BankAccount\obj\Debug\S_09_01_BankAccount.Resources.resources
+C:\Users\pavol\OneDrive\Documents\Visual Studio 2015\Projects\S-09-01-BankAccount\S-09-01-BankAccount\obj\Debug\S-09-01-BankAccount.vbproj.GenerateResource.Cache
+C:\Users\pavol\OneDrive\Documents\Visual Studio 2015\Projects\S-09-01-BankAccount\S-09-01-BankAccount\obj\Debug\S-09-01-BankAccount.exe
+C:\Users\pavol\OneDrive\Documents\Visual Studio 2015\Projects\S-09-01-BankAccount\S-09-01-BankAccount\obj\Debug\S-09-01-BankAccount.xml
+C:\Users\pavol\OneDrive\Documents\Visual Studio 2015\Projects\S-09-01-BankAccount\S-09-01-BankAccount\obj\Debug\S-09-01-BankAccount.pdb

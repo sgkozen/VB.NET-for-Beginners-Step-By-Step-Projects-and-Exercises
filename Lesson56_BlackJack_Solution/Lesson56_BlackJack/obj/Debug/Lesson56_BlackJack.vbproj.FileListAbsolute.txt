@@ -1,0 +1,12 @@
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson56_BlackJack_Solution\Lesson56_BlackJack\obj\Debug\Lesson56_BlackJack.vbproj.AssemblyReference.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson56_BlackJack_Solution\Lesson56_BlackJack\obj\Debug\Lesson56_BlackJack.BlackJack.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson56_BlackJack_Solution\Lesson56_BlackJack\obj\Debug\Lesson56_BlackJack.Resources.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson56_BlackJack_Solution\Lesson56_BlackJack\obj\Debug\Lesson56_BlackJack.vbproj.GenerateResource.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson56_BlackJack_Solution\Lesson56_BlackJack\obj\Debug\Lesson56_BlackJack.vbproj.CoreCompileInputs.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson56_BlackJack_Solution\Lesson56_BlackJack\bin\Debug\Lesson56_BlackJack.exe.config
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson56_BlackJack_Solution\Lesson56_BlackJack\bin\Debug\Lesson56_BlackJack.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson56_BlackJack_Solution\Lesson56_BlackJack\bin\Debug\Lesson56_BlackJack.pdb
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson56_BlackJack_Solution\Lesson56_BlackJack\bin\Debug\Lesson56_BlackJack.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson56_BlackJack_Solution\Lesson56_BlackJack\obj\Debug\Lesson56_BlackJack.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson56_BlackJack_Solution\Lesson56_BlackJack\obj\Debug\Lesson56_BlackJack.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson56_BlackJack_Solution\Lesson56_BlackJack\obj\Debug\Lesson56_BlackJack.pdb

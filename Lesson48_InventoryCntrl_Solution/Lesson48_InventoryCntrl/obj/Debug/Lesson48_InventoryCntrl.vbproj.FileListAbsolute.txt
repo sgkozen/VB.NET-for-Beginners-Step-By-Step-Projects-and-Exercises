@@ -1,0 +1,13 @@
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson48_InventoryCntrl_Solution\Lesson48_InventoryCntrl\bin\Debug\Lesson48_InventoryCntrl.exe.config
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson48_InventoryCntrl_Solution\Lesson48_InventoryCntrl\bin\Debug\Lesson48_InventoryCntrl.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson48_InventoryCntrl_Solution\Lesson48_InventoryCntrl\bin\Debug\Lesson48_InventoryCntrl.pdb
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson48_InventoryCntrl_Solution\Lesson48_InventoryCntrl\bin\Debug\Lesson48_InventoryCntrl.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson48_InventoryCntrl_Solution\Lesson48_InventoryCntrl\obj\Debug\Lesson48_InventoryCntrl.vbproj.AssemblyReference.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson48_InventoryCntrl_Solution\Lesson48_InventoryCntrl\obj\Debug\Lesson48_InventoryCntrl.InventoryControl.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson48_InventoryCntrl_Solution\Lesson48_InventoryCntrl\obj\Debug\Lesson48_InventoryCntrl.Resources.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson48_InventoryCntrl_Solution\Lesson48_InventoryCntrl\obj\Debug\Lesson48_InventoryCntrl.vbproj.GenerateResource.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson48_InventoryCntrl_Solution\Lesson48_InventoryCntrl\obj\Debug\Lesson48_InventoryCntrl.vbproj.CoreCompileInputs.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson48_InventoryCntrl_Solution\Lesson48_InventoryCntrl\obj\Debug\Lesson48_InventoryCntrl.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson48_InventoryCntrl_Solution\Lesson48_InventoryCntrl\obj\Debug\Lesson48_InventoryCntrl.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson48_InventoryCntrl_Solution\Lesson48_InventoryCntrl\obj\Debug\Lesson48_InventoryCntrl.pdb
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson48_InventoryCntrl_Solution\Lesson48_InventoryCntrl\obj\Debug\Lesson48_InventoryCntrl.frmDetails.resources

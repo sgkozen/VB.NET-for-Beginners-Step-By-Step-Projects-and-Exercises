@@ -1,0 +1,12 @@
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson44_UPCBarcode_Solution\Lesson44_UPCBarcode\bin\Debug\Lesson44_UPCBarcode.exe.config
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson44_UPCBarcode_Solution\Lesson44_UPCBarcode\bin\Debug\Lesson44_UPCBarcode.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson44_UPCBarcode_Solution\Lesson44_UPCBarcode\bin\Debug\Lesson44_UPCBarcode.pdb
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson44_UPCBarcode_Solution\Lesson44_UPCBarcode\bin\Debug\Lesson44_UPCBarcode.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson44_UPCBarcode_Solution\Lesson44_UPCBarcode\obj\Debug\Lesson44_UPCBarcode.vbproj.AssemblyReference.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson44_UPCBarcode_Solution\Lesson44_UPCBarcode\obj\Debug\Lesson44_UPCBarcode.UPC_Barcode.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson44_UPCBarcode_Solution\Lesson44_UPCBarcode\obj\Debug\Lesson44_UPCBarcode.Resources.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson44_UPCBarcode_Solution\Lesson44_UPCBarcode\obj\Debug\Lesson44_UPCBarcode.vbproj.GenerateResource.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson44_UPCBarcode_Solution\Lesson44_UPCBarcode\obj\Debug\Lesson44_UPCBarcode.vbproj.CoreCompileInputs.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson44_UPCBarcode_Solution\Lesson44_UPCBarcode\obj\Debug\Lesson44_UPCBarcode.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson44_UPCBarcode_Solution\Lesson44_UPCBarcode\obj\Debug\Lesson44_UPCBarcode.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson44_UPCBarcode_Solution\Lesson44_UPCBarcode\obj\Debug\Lesson44_UPCBarcode.pdb

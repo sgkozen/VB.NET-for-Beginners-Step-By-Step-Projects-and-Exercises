@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VB.NET for Beginners Step By Step Projects and Exercises\\Lesson51_SpreadOfEpidemic_Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E096A03-633A-4367-A3D4-2065327CE8F8}|Lesson51_SpreadOfEpidemic\\Lesson51_SpreadOfEpidemic.vbproj|c:\\vb.net for beginners step by step projects and exercises\\lesson51_spreadofepidemic_solution\\lesson51_spreadofepidemic\\spreadofepidemic.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{0E096A03-633A-4367-A3D4-2065327CE8F8}|Lesson51_SpreadOfEpidemic\\Lesson51_SpreadOfEpidemic.vbproj|solutionrelative:lesson51_spreadofepidemic\\spreadofepidemic.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E096A03-633A-4367-A3D4-2065327CE8F8}|Lesson51_SpreadOfEpidemic\\Lesson51_SpreadOfEpidemic.vbproj|c:\\vb.net for beginners step by step projects and exercises\\lesson51_spreadofepidemic_solution\\lesson51_spreadofepidemic\\spreadofepidemic.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{0E096A03-633A-4367-A3D4-2065327CE8F8}|Lesson51_SpreadOfEpidemic\\Lesson51_SpreadOfEpidemic.vbproj|solutionrelative:lesson51_spreadofepidemic\\spreadofepidemic.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpreadOfEpidemic.vb",
+              "DocumentMoniker": "C:\\VB.NET for Beginners Step By Step Projects and Exercises\\Lesson51_SpreadOfEpidemic_Solution\\Lesson51_SpreadOfEpidemic\\SpreadOfEpidemic.vb",
+              "RelativeDocumentMoniker": "Lesson51_SpreadOfEpidemic\\SpreadOfEpidemic.vb",
+              "ToolTip": "C:\\VB.NET for Beginners Step By Step Projects and Exercises\\Lesson51_SpreadOfEpidemic_Solution\\Lesson51_SpreadOfEpidemic\\SpreadOfEpidemic.vb",
+              "RelativeToolTip": "Lesson51_SpreadOfEpidemic\\SpreadOfEpidemic.vb",
+              "ViewState": "AgIAABMAAAAAAAAAAAAxwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-02T07:07:11.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpreadOfEpidemic.vb [Design]",
+              "DocumentMoniker": "C:\\VB.NET for Beginners Step By Step Projects and Exercises\\Lesson51_SpreadOfEpidemic_Solution\\Lesson51_SpreadOfEpidemic\\SpreadOfEpidemic.vb",
+              "RelativeDocumentMoniker": "Lesson51_SpreadOfEpidemic\\SpreadOfEpidemic.vb",
+              "ToolTip": "C:\\VB.NET for Beginners Step By Step Projects and Exercises\\Lesson51_SpreadOfEpidemic_Solution\\Lesson51_SpreadOfEpidemic\\SpreadOfEpidemic.vb [Design]",
+              "RelativeToolTip": "Lesson51_SpreadOfEpidemic\\SpreadOfEpidemic.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-02T07:00:36.022Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson46_MembershipList_Solution\Lesson46_MembershipList\bin\Debug\Lesson46_MembershipList.exe.config
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson46_MembershipList_Solution\Lesson46_MembershipList\bin\Debug\Lesson46_MembershipList.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson46_MembershipList_Solution\Lesson46_MembershipList\bin\Debug\Lesson46_MembershipList.pdb
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson46_MembershipList_Solution\Lesson46_MembershipList\bin\Debug\Lesson46_MembershipList.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson46_MembershipList_Solution\Lesson46_MembershipList\obj\Debug\Lesson46_MembershipList.vbproj.AssemblyReference.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson46_MembershipList_Solution\Lesson46_MembershipList\obj\Debug\Lesson46_MembershipList.Resources.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson46_MembershipList_Solution\Lesson46_MembershipList\obj\Debug\Lesson46_MembershipList.vbproj.GenerateResource.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson46_MembershipList_Solution\Lesson46_MembershipList\obj\Debug\Lesson46_MembershipList.vbproj.CoreCompileInputs.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson46_MembershipList_Solution\Lesson46_MembershipList\obj\Debug\Lesson46_MembershipList.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson46_MembershipList_Solution\Lesson46_MembershipList\obj\Debug\Lesson46_MembershipList.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson46_MembershipList_Solution\Lesson46_MembershipList\obj\Debug\Lesson46_MembershipList.pdb
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson46_MembershipList_Solution\Lesson46_MembershipList\obj\Debug\Lesson46_MembershipList.MemList.resources

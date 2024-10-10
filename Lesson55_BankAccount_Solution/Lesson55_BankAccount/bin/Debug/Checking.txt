@@ -1,0 +1,6 @@
+9/2/2012,Deposit,1000,True
+9/7/2012,Transfer from Savings,200,True
+9/15/2012,Check cashed by Electric Co.,75,False
+9/26/2012,Withdrawal,50,False
+10/5/2012,Deposit,37.5,True
+10/4/2024 12:00:00 AM, Deposit, 100, True

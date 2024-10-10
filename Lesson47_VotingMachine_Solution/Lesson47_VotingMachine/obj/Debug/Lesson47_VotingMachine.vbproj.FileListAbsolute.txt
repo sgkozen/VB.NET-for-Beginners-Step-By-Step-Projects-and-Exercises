@@ -1,0 +1,12 @@
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson47_VotingMachine_Solution\Lesson47_VotingMachine\bin\Debug\Lesson47_VotingMachine.exe.config
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson47_VotingMachine_Solution\Lesson47_VotingMachine\bin\Debug\Lesson47_VotingMachine.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson47_VotingMachine_Solution\Lesson47_VotingMachine\bin\Debug\Lesson47_VotingMachine.pdb
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson47_VotingMachine_Solution\Lesson47_VotingMachine\bin\Debug\Lesson47_VotingMachine.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson47_VotingMachine_Solution\Lesson47_VotingMachine\obj\Debug\Lesson47_VotingMachine.vbproj.AssemblyReference.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson47_VotingMachine_Solution\Lesson47_VotingMachine\obj\Debug\Lesson47_VotingMachine.Resources.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson47_VotingMachine_Solution\Lesson47_VotingMachine\obj\Debug\Lesson47_VotingMachine.VotingMachine.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson47_VotingMachine_Solution\Lesson47_VotingMachine\obj\Debug\Lesson47_VotingMachine.vbproj.GenerateResource.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson47_VotingMachine_Solution\Lesson47_VotingMachine\obj\Debug\Lesson47_VotingMachine.vbproj.CoreCompileInputs.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson47_VotingMachine_Solution\Lesson47_VotingMachine\obj\Debug\Lesson47_VotingMachine.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson47_VotingMachine_Solution\Lesson47_VotingMachine\obj\Debug\Lesson47_VotingMachine.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson47_VotingMachine_Solution\Lesson47_VotingMachine\obj\Debug\Lesson47_VotingMachine.pdb

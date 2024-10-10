@@ -1,0 +1,12 @@
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson52_BussinessTravelExpenses_Solution\Lesson52_BussinessTravelExpenses\bin\Debug\Lesson52_BussinessTravelExpenses.exe.config
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson52_BussinessTravelExpenses_Solution\Lesson52_BussinessTravelExpenses\bin\Debug\Lesson52_BussinessTravelExpenses.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson52_BussinessTravelExpenses_Solution\Lesson52_BussinessTravelExpenses\bin\Debug\Lesson52_BussinessTravelExpenses.pdb
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson52_BussinessTravelExpenses_Solution\Lesson52_BussinessTravelExpenses\bin\Debug\Lesson52_BussinessTravelExpenses.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson52_BussinessTravelExpenses_Solution\Lesson52_BussinessTravelExpenses\obj\Debug\Lesson52_BussinessTravelExpenses.vbproj.AssemblyReference.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson52_BussinessTravelExpenses_Solution\Lesson52_BussinessTravelExpenses\obj\Debug\Lesson52_BussinessTravelExpenses.Resources.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson52_BussinessTravelExpenses_Solution\Lesson52_BussinessTravelExpenses\obj\Debug\Lesson52_BussinessTravelExpenses.TravelExpenses.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson52_BussinessTravelExpenses_Solution\Lesson52_BussinessTravelExpenses\obj\Debug\Lesson52_BussinessTravelExpenses.vbproj.GenerateResource.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson52_BussinessTravelExpenses_Solution\Lesson52_BussinessTravelExpenses\obj\Debug\Lesson52_BussinessTravelExpenses.vbproj.CoreCompileInputs.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson52_BussinessTravelExpenses_Solution\Lesson52_BussinessTravelExpenses\obj\Debug\Lesson52_BussinessTravelExpenses.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson52_BussinessTravelExpenses_Solution\Lesson52_BussinessTravelExpenses\obj\Debug\Lesson52_BussinessTravelExpenses.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson52_BussinessTravelExpenses_Solution\Lesson52_BussinessTravelExpenses\obj\Debug\Lesson52_BussinessTravelExpenses.pdb

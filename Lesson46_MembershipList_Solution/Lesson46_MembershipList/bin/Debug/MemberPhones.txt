@@ -1,0 +1,9 @@
+Judy Langley,321-1111
+Fred Morgan,222-2222
+Mike Nixon,333-3333
+Herbert Norton,444-4444
+Carol Preiss,555-5555
+Alice Ree,666-6666
+Carlos Sanchez,777-7777
+John Smith,888-8888
+Pavol,111-2222

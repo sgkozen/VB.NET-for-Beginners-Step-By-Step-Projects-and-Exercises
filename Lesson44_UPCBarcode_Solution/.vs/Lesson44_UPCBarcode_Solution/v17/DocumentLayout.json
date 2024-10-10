@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VB.NET for Beginners Step By Step Projects and Exercises\\Lesson44_UPCBarcode_Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE671DF-86DC-4E8C-9D39-AE0C873129E9}|Lesson44_UPCBarcode\\Lesson44_UPCBarcode.vbproj|c:\\vb.net for beginners step by step projects and exercises\\lesson44_upcbarcode_solution\\lesson44_upcbarcode\\upc_barcode.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1AE671DF-86DC-4E8C-9D39-AE0C873129E9}|Lesson44_UPCBarcode\\Lesson44_UPCBarcode.vbproj|solutionrelative:lesson44_upcbarcode\\upc_barcode.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AE671DF-86DC-4E8C-9D39-AE0C873129E9}|Lesson44_UPCBarcode\\Lesson44_UPCBarcode.vbproj|c:\\vb.net for beginners step by step projects and exercises\\lesson44_upcbarcode_solution\\lesson44_upcbarcode\\upc_barcode.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1AE671DF-86DC-4E8C-9D39-AE0C873129E9}|Lesson44_UPCBarcode\\Lesson44_UPCBarcode.vbproj|solutionrelative:lesson44_upcbarcode\\upc_barcode.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UPC_Barcode.vb",
+              "DocumentMoniker": "C:\\VB.NET for Beginners Step By Step Projects and Exercises\\Lesson44_UPCBarcode_Solution\\Lesson44_UPCBarcode\\UPC_Barcode.vb",
+              "RelativeDocumentMoniker": "Lesson44_UPCBarcode\\UPC_Barcode.vb",
+              "ToolTip": "C:\\VB.NET for Beginners Step By Step Projects and Exercises\\Lesson44_UPCBarcode_Solution\\Lesson44_UPCBarcode\\UPC_Barcode.vb",
+              "RelativeToolTip": "Lesson44_UPCBarcode\\UPC_Barcode.vb",
+              "ViewState": "AgIAACgAAAAAAAAAAIAzwEAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-01T00:33:09.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UPC_Barcode.vb [Design]",
+              "DocumentMoniker": "C:\\VB.NET for Beginners Step By Step Projects and Exercises\\Lesson44_UPCBarcode_Solution\\Lesson44_UPCBarcode\\UPC_Barcode.vb",
+              "RelativeDocumentMoniker": "Lesson44_UPCBarcode\\UPC_Barcode.vb",
+              "ToolTip": "C:\\VB.NET for Beginners Step By Step Projects and Exercises\\Lesson44_UPCBarcode_Solution\\Lesson44_UPCBarcode\\UPC_Barcode.vb [Design]",
+              "RelativeToolTip": "Lesson44_UPCBarcode\\UPC_Barcode.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-01T00:28:12.204Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

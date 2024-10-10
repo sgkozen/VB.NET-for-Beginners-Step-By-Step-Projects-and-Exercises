@@ -1,0 +1,13 @@
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson49_AP_SeatingChart_Solution\Lesson49_AP_SeatingChart\bin\Debug\Lesson49_AP_SeatingChart.exe.config
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson49_AP_SeatingChart_Solution\Lesson49_AP_SeatingChart\bin\Debug\Lesson49_AP_SeatingChart.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson49_AP_SeatingChart_Solution\Lesson49_AP_SeatingChart\bin\Debug\Lesson49_AP_SeatingChart.pdb
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson49_AP_SeatingChart_Solution\Lesson49_AP_SeatingChart\bin\Debug\Lesson49_AP_SeatingChart.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson49_AP_SeatingChart_Solution\Lesson49_AP_SeatingChart\obj\Debug\Lesson49_AP_SeatingChart.vbproj.AssemblyReference.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson49_AP_SeatingChart_Solution\Lesson49_AP_SeatingChart\obj\Debug\Lesson49_AP_SeatingChart.Resources.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson49_AP_SeatingChart_Solution\Lesson49_AP_SeatingChart\obj\Debug\Lesson49_AP_SeatingChart.PlaneSeatingChart.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson49_AP_SeatingChart_Solution\Lesson49_AP_SeatingChart\obj\Debug\Lesson49_AP_SeatingChart.vbproj.GenerateResource.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson49_AP_SeatingChart_Solution\Lesson49_AP_SeatingChart\obj\Debug\Lesson49_AP_SeatingChart.vbproj.CoreCompileInputs.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson49_AP_SeatingChart_Solution\Lesson49_AP_SeatingChart\obj\Debug\Lesson49_AP_SeatingChart.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson49_AP_SeatingChart_Solution\Lesson49_AP_SeatingChart\obj\Debug\Lesson49_AP_SeatingChart.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson49_AP_SeatingChart_Solution\Lesson49_AP_SeatingChart\obj\Debug\Lesson49_AP_SeatingChart.pdb
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson49_AP_SeatingChart_Solution\Lesson49_AP_SeatingChart\obj\Debug\Lesson49_AP_SeatingChart.frmMeals.resources

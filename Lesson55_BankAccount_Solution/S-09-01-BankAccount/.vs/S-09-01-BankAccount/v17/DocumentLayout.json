@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\skouz\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Code\\S-09-01-BankAccount\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F3587E5-AC4B-4F91-80B3-0512289D866B}|S-09-01-BankAccount\\S-09-01-BankAccount.vbproj|c:\\users\\skouz\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\code\\s-09-01-bankaccount\\s-09-01-bankaccount\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{7F3587E5-AC4B-4F91-80B3-0512289D866B}|S-09-01-BankAccount\\S-09-01-BankAccount.vbproj|solutionrelative:s-09-01-bankaccount\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F3587E5-AC4B-4F91-80B3-0512289D866B}|S-09-01-BankAccount\\S-09-01-BankAccount.vbproj|c:\\users\\skouz\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\code\\s-09-01-bankaccount\\s-09-01-bankaccount\\transaction.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7F3587E5-AC4B-4F91-80B3-0512289D866B}|S-09-01-BankAccount\\S-09-01-BankAccount.vbproj|solutionrelative:s-09-01-bankaccount\\transaction.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F3587E5-AC4B-4F91-80B3-0512289D866B}|S-09-01-BankAccount\\S-09-01-BankAccount.vbproj|c:\\users\\skouz\\onedrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\code\\s-09-01-bankaccount\\s-09-01-bankaccount\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{7F3587E5-AC4B-4F91-80B3-0512289D866B}|S-09-01-BankAccount\\S-09-01-BankAccount.vbproj|solutionrelative:s-09-01-bankaccount\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\skouz\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Code\\S-09-01-BankAccount\\S-09-01-BankAccount\\Form1.vb",
+              "RelativeDocumentMoniker": "S-09-01-BankAccount\\Form1.vb",
+              "ToolTip": "C:\\Users\\skouz\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Code\\S-09-01-BankAccount\\S-09-01-BankAccount\\Form1.vb",
+              "RelativeToolTip": "S-09-01-BankAccount\\Form1.vb",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAswOIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-04T05:41:56.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Transaction.vb",
+              "DocumentMoniker": "C:\\Users\\skouz\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Code\\S-09-01-BankAccount\\S-09-01-BankAccount\\Transaction.vb",
+              "RelativeDocumentMoniker": "S-09-01-BankAccount\\Transaction.vb",
+              "ToolTip": "C:\\Users\\skouz\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Code\\S-09-01-BankAccount\\S-09-01-BankAccount\\Transaction.vb",
+              "RelativeToolTip": "S-09-01-BankAccount\\Transaction.vb",
+              "ViewState": "AgIAACAAAAAAAAAAAAAhwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-04T05:40:11.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\skouz\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Code\\S-09-01-BankAccount\\S-09-01-BankAccount\\Form1.vb",
+              "RelativeDocumentMoniker": "S-09-01-BankAccount\\Form1.vb",
+              "ToolTip": "C:\\Users\\skouz\\OneDrive\\\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\\Code\\S-09-01-BankAccount\\S-09-01-BankAccount\\Form1.vb [Design]",
+              "RelativeToolTip": "S-09-01-BankAccount\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-04T05:23:54.972Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

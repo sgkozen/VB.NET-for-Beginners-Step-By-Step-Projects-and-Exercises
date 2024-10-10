@@ -1,0 +1,12 @@
+C:\VB.NET for Beginners Step By Step Projects and Exercises\SlotMachine_Solution\SlotMachine\bin\Debug\SlotMachine.exe.config
+C:\VB.NET for Beginners Step By Step Projects and Exercises\SlotMachine_Solution\SlotMachine\bin\Debug\SlotMachine.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\SlotMachine_Solution\SlotMachine\bin\Debug\SlotMachine.pdb
+C:\VB.NET for Beginners Step By Step Projects and Exercises\SlotMachine_Solution\SlotMachine\bin\Debug\SlotMachine.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\SlotMachine_Solution\SlotMachine\obj\Debug\SlotMachine.vbproj.AssemblyReference.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\SlotMachine_Solution\SlotMachine\obj\Debug\SlotMachine.SlotMachine.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\SlotMachine_Solution\SlotMachine\obj\Debug\SlotMachine.Resources.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\SlotMachine_Solution\SlotMachine\obj\Debug\SlotMachine.vbproj.GenerateResource.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\SlotMachine_Solution\SlotMachine\obj\Debug\SlotMachine.vbproj.CoreCompileInputs.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\SlotMachine_Solution\SlotMachine\obj\Debug\SlotMachine.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\SlotMachine_Solution\SlotMachine\obj\Debug\SlotMachine.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\SlotMachine_Solution\SlotMachine\obj\Debug\SlotMachine.pdb

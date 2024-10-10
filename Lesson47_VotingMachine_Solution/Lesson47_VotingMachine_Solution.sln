@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Lesson47_VotingMachine", "Lesson47_VotingMachine\Lesson47_VotingMachine.vbproj", "{0E7AF2F8-EEB2-4E0C-8193-EF0F9707EA81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E7AF2F8-EEB2-4E0C-8193-EF0F9707EA81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E7AF2F8-EEB2-4E0C-8193-EF0F9707EA81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E7AF2F8-EEB2-4E0C-8193-EF0F9707EA81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E7AF2F8-EEB2-4E0C-8193-EF0F9707EA81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E207295-3E3E-4741-A101-A491606E9A68}
+	EndGlobalSection
+EndGlobal

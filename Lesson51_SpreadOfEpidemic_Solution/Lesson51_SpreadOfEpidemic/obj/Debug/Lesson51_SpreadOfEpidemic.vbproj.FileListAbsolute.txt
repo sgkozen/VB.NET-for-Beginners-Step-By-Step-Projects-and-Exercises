@@ -1,0 +1,12 @@
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson51_SpreadOfEpidemic_Solution\Lesson51_SpreadOfEpidemic\bin\Debug\Lesson51_SpreadOfEpidemic.exe.config
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson51_SpreadOfEpidemic_Solution\Lesson51_SpreadOfEpidemic\bin\Debug\Lesson51_SpreadOfEpidemic.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson51_SpreadOfEpidemic_Solution\Lesson51_SpreadOfEpidemic\bin\Debug\Lesson51_SpreadOfEpidemic.pdb
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson51_SpreadOfEpidemic_Solution\Lesson51_SpreadOfEpidemic\bin\Debug\Lesson51_SpreadOfEpidemic.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson51_SpreadOfEpidemic_Solution\Lesson51_SpreadOfEpidemic\obj\Debug\Lesson51_SpreadOfEpidemic.vbproj.AssemblyReference.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson51_SpreadOfEpidemic_Solution\Lesson51_SpreadOfEpidemic\obj\Debug\Lesson51_SpreadOfEpidemic.Resources.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson51_SpreadOfEpidemic_Solution\Lesson51_SpreadOfEpidemic\obj\Debug\Lesson51_SpreadOfEpidemic.SpreadOfEpidemic.resources
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson51_SpreadOfEpidemic_Solution\Lesson51_SpreadOfEpidemic\obj\Debug\Lesson51_SpreadOfEpidemic.vbproj.GenerateResource.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson51_SpreadOfEpidemic_Solution\Lesson51_SpreadOfEpidemic\obj\Debug\Lesson51_SpreadOfEpidemic.vbproj.CoreCompileInputs.cache
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson51_SpreadOfEpidemic_Solution\Lesson51_SpreadOfEpidemic\obj\Debug\Lesson51_SpreadOfEpidemic.exe
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson51_SpreadOfEpidemic_Solution\Lesson51_SpreadOfEpidemic\obj\Debug\Lesson51_SpreadOfEpidemic.xml
+C:\VB.NET for Beginners Step By Step Projects and Exercises\Lesson51_SpreadOfEpidemic_Solution\Lesson51_SpreadOfEpidemic\obj\Debug\Lesson51_SpreadOfEpidemic.pdb

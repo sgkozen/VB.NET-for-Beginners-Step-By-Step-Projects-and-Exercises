@@ -57,12 +57,40 @@
             MessageBox.Show("Select directory and enter name and phone number to add", "Invalid entry!", MessageBoxButtons.OK, MessageBoxIcon.Error)
         End If
 
+    End Sub
+
+    Private Sub btnRemove_Click(sender As Object, e As EventArgs) Handles btnRemove.Click
+        Dim nameToDelete As String = txtName.Text
+        Dim selectedDirectory As String = txtCurrentDirectory.Text
+        Dim sr As IO.StreamWriter
+
+        If nameToDelete.Trim().Length > 0 And selectedDirectory.Trim().Length > 0 Then
+            Dim query = From data In IO.File.ReadAllLines(selectedDirectory)
+                        Let name As String = data.Split(","c)(0)
+                        Let phone As String = data.Split(","c)(1)
+                        Where name <> nameToDelete
+                        Let output As String = name + ", " + phone
+                        Select output
+            sr = IO.File.CreateText(selectedDirectory)
+            For i As Integer = 0 To query.Count() - 1
+                sr.WriteLine(query(i))
+            Next
+            sr.Close()
+            DisplayData(selectedDirectory)
+        Else
+            MessageBox.Show("Select record to delete", "Invalid entry", MessageBoxButtons.OK, MessageBoxIcon.Error)
+        End If
 
 
 
 
 
 
+    End Sub
 
+    Private Sub dgvOutput_CellContentClick(sender As Object, e As DataGridViewCellEventArgs) Handles dgvOutput.CellContentClick
+        Dim row = dgvOutput.CurrentRow.Index
+        txtName.Text = dgvOutput.Item(0, row).Value.ToString()
+        txtPhone.Text = dgvOutput.Item(1, row).Value.ToString()
     End Sub
 End Class
